@@ -1,3 +1,6 @@
+
+devtools::install_github("rstudio/rsconnect")
+rsconnect::setAccountInfo(name='1xdpt3-cyrcan', token='288BF6FAF532C9A3AAB40F4F2C1DA8B8', secret='LzWLv6Zsq9UMJtGdmqghUmFFDJiDolmnWz4DwVOn')
 library(shiny)
 library(plotly)
 library(dplyr)
